@@ -7,11 +7,10 @@
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
 
-[image1]: ./test_images_output/solidWhiteCurve_output.jpg "Image_output"
+![alt text](./test_images_output/solidWhiteCurve_output.jpg "Image_output")
+
 ---
-![alt text][image1]
 
 ## Reflection
 
